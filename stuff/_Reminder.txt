@@ -1,0 +1,15 @@
+
+- pomaknuti bicikl do ruba
+- staviti poklone na saonice
+- popraviti saonice
+
+- staviti teksturu na snijeg
+- staviti teksturu na košaru
+- Staviti teksturu na zvijezde
+- staviti teksturu na sjedalicu
+- staviti teksturu na popravljeni dio
+
+- napraviti putanju
+- animirati saonice kroz 500 slièica
+
+Done :)
